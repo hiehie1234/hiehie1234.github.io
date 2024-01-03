@@ -1,0 +1,18 @@
+{
+  "assets":{
+    "images":[
+      {
+        "baseurl":"assets/",
+        "name":"heart.png",
+        "key":"heart",
+        "path":""
+    }],
+    "tilemaptiledjson":[
+    {
+      "baseurl":"assets/",
+      "name":"map.json",
+      "path":"tilemaps/",
+      "urlpath":"https://xxxxxxx.ssss/xxx/xxx/assets/tilemaps/json/tilemapcity.json"
+    }]
+  }
+}
