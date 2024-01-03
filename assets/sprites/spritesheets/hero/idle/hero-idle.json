@@ -1,0 +1,6 @@
+{
+    "hero":{
+        "url":"sprites/spritesheets/hero/idle/hero-idle-front.png",
+        "baseUrl":"assets/"
+    }
+}
